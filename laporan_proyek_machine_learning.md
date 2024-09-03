@@ -163,7 +163,8 @@ Model LSTM yang dikembangkan telah dievaluasi menggunakan metrik **Root Mean Squ
 
 **Rubrik/Kriteria Tambahan (Opsional)**: 
 ### RMSE Calculation:
-![RMSE](./image.png)
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/3c57aa55-7a56-46e2-b7c6-db064100c4fd">
+
 - RMSE dipilih karena memberikan bobot yang lebih tinggi pada error yang lebih besar, yang berguna dalam konteks prediksi harga saham di mana error besar lebih dihindari.
 
 
